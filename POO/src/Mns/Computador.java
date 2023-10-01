@@ -1,5 +1,5 @@
 package Mns;
-
+// Exercicio de encaosulamento
 public class Computador {
     public static void main(String[] args) {
         MsnMessenger msn = new MsnMessenger();
